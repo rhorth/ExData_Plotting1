@@ -15,7 +15,7 @@
 ##    - 1.3 Convert date and time formats
 
 ## Step 1.1 ##
-setwd("C:/Users/Roberta/Documents/UCSF/Trainings/Coursera/Exploratory Data Analysis/Week 1/Project/") 
+setwd("C:/Coursera/Exploratory Data Analysis/Week 1/Project/") 
 
 ## Step 1.2 ##
 df <- read.table("household_power_consumption.txt", 
